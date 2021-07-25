@@ -1,0 +1,14 @@
+body {
+    /* font-family: 'Tangerine', serif;  */
+    font-size: 30px;
+  } 
+
+
+  .box{
+    border: 1px solid red;
+  }
+
+  .boxViolet{
+    height: auto;
+    background-color: royalblue;
+  }
